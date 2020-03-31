@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+     
+      "firstName": "string",
+      "lastName": "string",
+      "adress": "string",
+      "city": "string",
+      "region": "string",
+      "postalCode": "string",
+      "phone": "string",
+      "email": "string",
+      "age": "string",
+      "id": 1,
+      "country": "string"
+    }
+  ]
+}
