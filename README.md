@@ -1,6 +1,4 @@
-Deployment verion [Adress Book](https://yevhen-romanenko.github.io/address-book/)
-
-<img src="https://i.imgur.com/6miajRj.png" heigth="300" width="300" />
+<img src="https://i.imgur.com/mbjiqFM.png" heigth="200" width="200" /> <img src="https://i.imgur.com/VsDE7IY.png" heigth="200" width="200" />
 
 You can run the app by running on Windows
 
