@@ -117,7 +117,7 @@ const HomePage: React.SFC<HomePageProps> = (contactsStore: HomePageProps) => {
               <td>{c.city}</td>
               <td>{c.country}</td>
               <td>{c.postalCode}</td>
-              <td>{c.phone}</td>  
+              <td>{c.phone}</td>
               <td>{c.email}</td>
               <td>{c.age}</td>
               <td>

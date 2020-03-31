@@ -24,7 +24,7 @@ function App({ contactsStore }: any) {
           path="/"
           exact
           component={(props: any) => (
-            <HomePage {...props} contactsStore={props.contactsStore} />
+            <HomePage {...props} contactsStore={contactsStore} />
           )}
         />
       </Router>

@@ -3,7 +3,7 @@ import { ContactsStore } from "./store";
 export interface Contact {
   firstName: string;
   lastName: string;
-  adress: string;
+  address: string;
   city: string;
   region: string;
   postalCode: string;

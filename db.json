@@ -1,18 +1,30 @@
 {
   "contacts": [
     {
-     
-      "firstName": "string",
-      "lastName": "string",
-      "adress": "string",
-      "city": "string",
-      "region": "string",
-      "postalCode": "string",
-      "phone": "string",
-      "email": "string",
-      "age": "string",
+      "firstName": "Evheny",
+      "lastName": "Romanenko",
+      "address": "unknown",
+      "city": "Khmelnitskiy",
+      "region": "Khmelnitskiy",
+      "postalCode": "29000",
+      "phone": "+123456789",
+      "email": "strkromik@gmail.com",
+      "age": "29",
       "id": 1,
-      "country": "string"
+      "country": "Ukraine"
+    },
+    {
+      "firstName": "Olga",
+      "lastName": "Savchuk",
+      "address": "unknown",
+      "city": "Khmelnitskiy",
+      "region": "Khmelnitskiy",
+      "country": "Ukraine",
+      "postalCode": "29001",
+      "phone": "+987654321",
+      "email": "shachi@ukr.net",
+      "age": "30",
+      "id": 2
     }
   ]
 }
